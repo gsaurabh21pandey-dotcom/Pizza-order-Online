@@ -1,7 +1,9 @@
 Pizza Ordering Demo App - MERN Stack
+
 This project is a demonstration of a pizza ordering application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It features user and admin authentication, a Redux-based shopping cart, order summary functionality, real-time order status updates, Cash on Delivery (COD) and Online Payment options with Razorpay integration, and an admin interface to manage pizzas and orders.
 
 Features
+
 User Authentication: Users can sign up and log in securely to place orders.
 Admin Authentication: Admins can log in to manage pizzas and orders.
 Redux-based Cart: The shopping cart is managed using Redux for efficient state management.
